@@ -1,4 +1,9 @@
-HeroImg {
+.HeroImg {
   background-image: url('../Images/istockphoto-1265003122-612x612.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
+.cardHeader {
+    color: aquamarine;
+}
