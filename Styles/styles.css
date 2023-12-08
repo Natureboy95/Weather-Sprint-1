@@ -7,3 +7,26 @@
 .cardHeader {
     color: aquamarine;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.text-start {
+  text-align: start;
+}
+
+.text-end {
+  text-align: end;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: inherit;
+}
+
+.cloudImg {
+}
