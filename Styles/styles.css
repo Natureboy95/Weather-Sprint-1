@@ -29,4 +29,14 @@
 }
 
 .cloudImg {
+  size: 25px;
 }
+
+.starImg {
+  size: 10px;
+}
+
+.moonImg {
+  size: 15px;
+}
+
